@@ -1,12 +1,12 @@
 
 # BMS – Building & Light Management System
-
-## Project Overview
 ## Project Gallery
 
 ![BMS Project Demonstration](1794561041432~2.jpg)
 
 ---
+
+## Project Overview
 
 An academic project focused on creating a sustainable and efficient educational environment through a Building and Light Management System.
 
